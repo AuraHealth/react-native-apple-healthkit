@@ -1,15 +1,39 @@
 {
-  "name": "react-native-apple-healthkit",
-  "version": "0.2.1",
-  "description": "A React Native bridge module for interacting with Apple HealthKit data",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
+  "_from": "github:skleest/react-native-apple-healthkit",
+  "_id": "react-native-apple-healthkit@0.2.1",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-apple-healthkit",
+  "_phantomChildren": {},
+  "_requested": {
     "type": "git",
-    "url": "git+https://github.com/GregWilson/react-native-apple-healthkit.git"
+    "raw": "react-native-apple-healthkit@github:skleest/react-native-apple-healthkit",
+    "name": "react-native-apple-healthkit",
+    "escapedName": "react-native-apple-healthkit",
+    "rawSpec": "github:skleest/react-native-apple-healthkit",
+    "saveSpec": "github:skleest/react-native-apple-healthkit",
+    "fetchSpec": null,
+    "gitCommittish": null
   },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "github:skleest/react-native-apple-healthkit#5adade4a95b5b3cd1816a8d203c1e36a702cfa8a",
+  "_spec": "react-native-apple-healthkit@github:skleest/react-native-apple-healthkit",
+  "_where": "/Users/USER/Documents/Daniel/Work/AuraHealth/Aura",
+  "author": {
+    "name": "Greg Wilson"
+  },
+  "bugs": {
+    "url": "https://github.com/GregWilson/react-native-apple-healthkit/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A React Native bridge module for interacting with Apple HealthKit data",
+  "devDependencies": {
+    "react-native": ">=0.28.0"
+  },
+  "homepage": "https://github.com/GregWilson/react-native-apple-healthkit#readme",
   "keywords": [
     "Apple",
     "health-kit",
@@ -20,12 +44,18 @@
     "native",
     "ios"
   ],
-  "author": "Greg Wilson",
   "license": "MIT",
-  "devDependencies": {
-    "react-native": ">=0.28.0"
-  },
+  "main": "index.js",
+  "name": "react-native-apple-healthkit",
   "peerDependencies": {
     "react-native": ">=0.28.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GregWilson/react-native-apple-healthkit.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.2.1"
 }
